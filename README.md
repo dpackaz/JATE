@@ -22,7 +22,7 @@ A user may follow the link to the deployed app and install the program from ther
 
 ## Usage
 
-[Link to Deployed App](https://drive.google.com/file/d/1zSXVxDDH1fl7F3wUtTgnmI9XUj-znF4k/view)
+[Link to Deployed App](placeholder)
 
 A user may choose to use the app online or download the software to their own machine. It functions much like any other text editor.
 
